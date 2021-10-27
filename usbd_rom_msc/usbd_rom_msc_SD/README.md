@@ -50,4 +50,3 @@ Connections:
 |P0_27|CS|
 |3.3V|3.3V|
 |GND|GND|
-3.3
