@@ -1,6 +1,10 @@
 # README #
 
-Various projects for the LPC1549 Xpresso v2 board, made by me.
+Various projects for the LPCXpresso1549 board, made by me.
+
+* LPCXpresso1549_blinky_tneo
+
+Blinking 8 LEDs using real-time kernel (TNeo)
 
 * usbd_rom_msc
 
